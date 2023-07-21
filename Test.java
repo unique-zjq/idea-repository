@@ -4,6 +4,7 @@
  */
 public class Test {
     public Test() {
+        int i = 1;
         System.out.println("我正在测试！");
     }
 }
